@@ -59,3 +59,10 @@ To display the original images and their red masks:
 ```bash
 python scripts/quantify_red_area.py --show
 ```
+
+## Citation
+
+If you use this code, please cite the archived version in Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.20761697
+
